@@ -1,2 +1,5 @@
 cloudant
+aiohttp
+aiohttp_jinja2
+Jinja2
 requests
