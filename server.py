@@ -53,6 +53,7 @@ def hello_world():
 
 # start the app
 if __name__ == '__main__':
+    print("{0} Python main starts... {0}".format('!' * 10)) 
     app.run(host='0.0.0.0', port=port)
 
     
